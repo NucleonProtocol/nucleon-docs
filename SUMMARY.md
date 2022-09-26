@@ -8,10 +8,10 @@
 * [Liquid Staking](about-nucleon/liquid-staking.md)
 * [xCFX Token](about-nucleon/xcfx-token.md)
 * [NUT Token](about-nucleon/nut-token.md)
-* [Fees](about-nucleon/fees.md)
-* [Security](about-nucleon/security.md)
-* [Risks](about-nucleon/risks.md)
 * [Economics Detail](about-nucleon/economics-detail.md)
+* [Security](about-nucleon/security.md)
+* [Fees](about-nucleon/fees.md)
+* [Risks](about-nucleon/risks.md)
 
 ## About Conflux Staking
 
