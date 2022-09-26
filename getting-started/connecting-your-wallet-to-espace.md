@@ -11,11 +11,11 @@ To connect MetaMask to Conflux eSpace:&#x20;
 1. Open MetaMask.&#x20;
 2.  Go to the Networks drop-down menu and click **Add Network**. &#x20;
 
-    <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
-    <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 3. In Add a network, enter the following settings:&#x20;
 
 * **Network Name**: Conflux eSpace Mainnet (or Conflux eSpace Testnet)&#x20;
