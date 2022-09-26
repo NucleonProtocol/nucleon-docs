@@ -9,6 +9,7 @@
 * [xCFX Token](about-nucleon/xcfx-token.md)
 * [NUT Token](about-nucleon/nut-token.md)
 * [Fees](about-nucleon/fees.md)
+* [Security](about-nucleon/security.md)
 * [Risks](about-nucleon/risks.md)
 * [Economics Detail](about-nucleon/economics-detail.md)
 
