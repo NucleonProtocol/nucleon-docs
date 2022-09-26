@@ -9,12 +9,12 @@ Adding tokens to Nucleon is super simple. To add a token:&#x20;
 1. Go to Nucleon.&#x20;
 2.  Expand Select a token to open the Select a token dialog.
 
-    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3.  Click the add (+) icon next to the token that you want to add.
 
     <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 4.  In MetaMask, click **Add Token** to finish adding the token.
 
-    <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 You have now added an ERC-20 token to MetaMask. Now let's continue and connect MetaMask to Nucleon.

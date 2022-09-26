@@ -25,4 +25,4 @@ To connect MetaMask to Nucleon:&#x20;
     <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 6.  Now you can start using on Nucleon!
 
-    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
