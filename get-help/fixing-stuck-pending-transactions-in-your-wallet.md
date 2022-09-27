@@ -10,7 +10,7 @@ Every once in a blue moon there can be a hiccup in the transaction in your walle
    1. Open the MetaMask plugin on your browser
    2.  Click the multcolored circle in the upper right of the popup. Usually opposite of the fox head icon
 
-       <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
    3.  Select Settings
 
        <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
@@ -43,7 +43,7 @@ We need to find the stuck transaction and remember the nonce. The nonce is an id
 
 Remember the gas fee increases the priority of the transaction and will ensure that this nonce is accepted over the old stuck transaction in your wallet.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 2\.  On the confirmation screen ensure the gas fee has really been increased.
 

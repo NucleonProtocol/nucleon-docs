@@ -8,6 +8,7 @@
 * [Liquid Staking](about-nucleon/liquid-staking.md)
 * [xCFX Token](about-nucleon/xcfx-token.md)
 * [NUT Token](about-nucleon/nut-token.md)
+* [Tokenomics](about-nucleon/tokenomics.md)
 * [Economics Detail](about-nucleon/economics-detail.md)
 * [Security](about-nucleon/security.md)
 * [Fees](about-nucleon/fees.md)

@@ -19,7 +19,7 @@ You can also use your [Ledger](https://ledger.com/) hardware wallet to trade on 
     <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 3.  **Enable** the blind signing option.
 
-    <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 You have just enabled blind signing in your Ledger device!
 

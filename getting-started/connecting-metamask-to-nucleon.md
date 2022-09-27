@@ -19,10 +19,10 @@ To connect MetaMask to Nucleon:&#x20;
     <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 4.  In MetaMask, select the account that you wish to connect and click **Next**.
 
-    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 5.  Finally, click **Connect** to confirm the connection of your MetaMask account to Nucleon.
 
-    <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 6.  Now you can start using on Nucleon!
 
     <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
