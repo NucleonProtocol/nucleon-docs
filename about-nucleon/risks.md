@@ -4,7 +4,7 @@ There exist a number of potential risks when staking CFX using liquid staking pr
 
 ### Smart contract security
 
-There is an inherent risk that NUCLEON could contain a smart contract vulnerability or bug. The NUCLEON code is open-sourced, audited and covered by an extensive bug bounty program to minimise this risk.
+There is an inherent risk that Nucleon could contain a smart contract vulnerability or bug. The Nucleon code is open-sourced, audited and covered by an extensive bug bounty program to minimise this risk.
 
 ### Conflux PoS network - Technical risk
 
