@@ -18,7 +18,7 @@ $$
 ct = co +
 $$
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 When users withdraw xCFX to CFX, the xCFX to CFX withdraw value is determined the moment the withdrawal operation is confirmed as determined by Conflux POS mechanism - currently: 14 days.&#x20;
 
@@ -36,4 +36,4 @@ Total Supply: 300,000 NUT released over 4 years. &#x20;
 
 The release schedule time chart is as follows:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>

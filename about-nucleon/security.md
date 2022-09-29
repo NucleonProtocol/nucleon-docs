@@ -1,5 +1,6 @@
 # Security
 
+* Audit by Hacken (In Progress)
 * Open-sourcing & continuous review of all code.
 * Use of DAO for governance decisions & to manage risk factors.
 * Best-in-class validators to minimise staking risk.
