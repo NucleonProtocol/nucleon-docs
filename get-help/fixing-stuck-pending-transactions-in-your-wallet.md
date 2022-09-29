@@ -39,7 +39,7 @@ We need to find the stuck transaction and remember the nonce. The nonce is an id
 
 1.  Create a new transaction with a higher gas fee. In the MetaMask popup select **edit** for the estimated gas fee.
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 Remember the gas fee increases the priority of the transaction and will ensure that this nonce is accepted over the old stuck transaction in your wallet.
 
