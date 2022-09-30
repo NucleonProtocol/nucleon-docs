@@ -19,7 +19,7 @@ For clarity's purpose:
 * You cannot transfer CFX from KuCoin to a Binance wallet, nor to a wallet that is connected to the BNB Chain network.
   * To learn how to transfer your CFX from KuCoin to Conflux eSpace, follow this guide.
 * You **cannot** transfer natively bCFX from a BNB Chain wallet to any Conflux eSpace wallet, nor to a KuCoin wallet.
-  * To learn how to bridge your bCFX to Conflux eSpace, see: Bridging bCFX from BNB Chain to Conflux eSpace Using Multichain.org.
+  * To learn how to bridge your bCFX to Conflux eSpace, see: [Bridging bCFX from BNB Chain to Conflux eSpace Using Multichain.org](../from-other-networks/bridging-from-ethereum-and-bnb-chain-with-multichain.md).
 * You **cannot** transfer natively eSpace CFX to a Binance account nor to a wallet connected to the BNB Chain network.
 
 | From                    | To                      | How                                                                                                                                                           |
