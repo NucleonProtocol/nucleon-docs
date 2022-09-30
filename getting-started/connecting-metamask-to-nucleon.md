@@ -16,7 +16,7 @@ To connect MetaMask to Nucleon:&#x20;
     <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 3.  In the Connect a wallet dialog, next to MetaMask, click **Connect**.
 
-    <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 4.  In MetaMask, select the account that you wish to connect and click **Next**.
 
     <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>

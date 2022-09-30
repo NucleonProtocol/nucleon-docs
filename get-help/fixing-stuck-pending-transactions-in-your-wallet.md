@@ -13,13 +13,13 @@ Every once in a blue moon there can be a hiccup in the transaction in your walle
        <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
    3.  Select Settings
 
-       <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
    4.  Select Advanced
 
-       <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
    5.  Scroll to Advanced gas controls and make sure the toggle is in the on position
 
-       <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
    6.  Still in the advanced section, go to customize transaction nonce and make sure this is toggled on too
 
        <figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
@@ -29,7 +29,7 @@ We need to find the stuck transaction and remember the nonce. The nonce is an id
 
 1.  Back at the main Metamask screen select the **Activity** tab and find the token that is stuck in the transaction.&#x20;
 
-    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 2.  Look for the nonce and note the number
 
     <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
@@ -47,7 +47,7 @@ Remember the gas fee increases the priority of the transaction and will ensure t
 
 &#x20; 2\.  On the confirmation screen ensure the gas fee has really been increased.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 3\.  Find the custom nonce entry and put in the nonce we noted earlier.
 

@@ -46,13 +46,13 @@ To transfer CFX from KuCoin to you MetaMask account on Conflux eSpace:
 
 1. Go to KuCoin.
 2. In KuCoin, go to your wallet and click **Withdraw**.\
-   ![](../../.gitbook/assets/image.png)
+   ![](<../../.gitbook/assets/image (13).png>)
 3. In the Withdraw Crypto search bar, search for "CFX" and click the result.\
    ![](<../../.gitbook/assets/image (21).png>)
 4. In the Wallet Address field, copy your Conflux eSpace account address from MetaMask.\
-   ![](<../../.gitbook/assets/image (7).png>)
+   ![](<../../.gitbook/assets/image (7) (2).png>)
 5. In the Network select, select **CFX - Conflux (CFX)**.\
-   ![](<../../.gitbook/assets/image (2).png>)
+   ![](<../../.gitbook/assets/image (2) (1).png>)
 6. In the CFX Amount field, enter the amount of CFX that you want to transfer.
 7. _Optional_: In the Remarks field, add any notes about this transaction.
 8. Review the transaction details, the transaction fee and click **Confirm**.

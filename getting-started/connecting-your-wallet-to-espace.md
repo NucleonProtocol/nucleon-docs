@@ -11,7 +11,7 @@ To connect MetaMask to Conflux eSpace:&#x20;
 1. Open MetaMask.&#x20;
 2.  Go to the Networks drop-down menu and click **Add Network**. &#x20;
 
-    <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
