@@ -15,7 +15,7 @@ To connect MetaMask to Conflux eSpace:&#x20;
 
 
 
-    <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3. In Add a network, enter the following settings:&#x20;
 
 * **Network Name**: Conflux eSpace Mainnet (or Conflux eSpace Testnet)&#x20;
@@ -26,6 +26,6 @@ To connect MetaMask to Conflux eSpace:&#x20;
 
 &#x20; 4\. Verify that the data you entered is correct and click **Save**.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now, let's go ahead and fund your wallet.

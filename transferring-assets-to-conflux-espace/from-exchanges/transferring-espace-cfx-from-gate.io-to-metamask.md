@@ -22,13 +22,13 @@ See [Supported Wallets](../../wallets/supported-wallets.md) for more information
 3. In Withdraw, expand the Coin Code select and search for CFX. Then click the result.\
    ![](<../../.gitbook/assets/image (5) (2).png>)
 4. In Chain, select **CFX EVM**.\
-   ![](<../../.gitbook/assets/image (7) (4).png>)
+   ![](<../../.gitbook/assets/image (7) (1).png>)
 5. In CFX Address, enter your eSpace account address.\
-   ![](<../../.gitbook/assets/image (11) (2).png>)\
+   ![](<../../.gitbook/assets/image (11).png>)\
 
 6. _Optional_: In address description, add a description for this address, such as "My Conflux eSpace MetaMask account".
 7. In Amount, enter the amount (in CFX) that you wish to transfer.\
-   ![](<../../.gitbook/assets/image (14).png>)\
+   ![](<../../.gitbook/assets/image (14) (3).png>)\
 
 8. Enter your fund password, email code, and Google Authenticator/TOTP code, then click **Submit request**.\
    ![](<../../.gitbook/assets/image (2) (1).png>)
