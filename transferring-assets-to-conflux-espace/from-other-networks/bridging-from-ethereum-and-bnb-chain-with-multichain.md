@@ -20,52 +20,52 @@ In this guide, we'll bridge bCFX from BNB Chain to Conflux eSpace through Multic
 
 1. Go to [Multichain](https://conflux.multichain.org) ([https://conflux.multichain.org](https://conflux)).
 2. Click the **Connect Wallet** button to start connecting your wallet.\
-   ![](<../../.gitbook/assets/image (50).png>)\
+   ![](<../../.gitbook/assets/image (46).png>)\
 
 3. In the Connect to a Wallet dialog, click **MetaMask**.\
-   ![](<../../.gitbook/assets/image (2).png>)\
+   ![](<../../.gitbook/assets/image (1).png>)\
 
 4. In the Connect With MetaMask notification, select the wallet(s) that you wish to connect and click **Next**.\
-   ![](<../../.gitbook/assets/image (45).png>)\
+   ![](<../../.gitbook/assets/image (62).png>)\
 
 5. Click **Connect** to confirm the connection to the site.\
-   ![](<../../.gitbook/assets/image (40).png>)\
+   ![](<../../.gitbook/assets/image (29).png>)\
 
 6. In the From box, switch to the **BNB CHAIN mainnet** network.\
-   ![](<../../.gitbook/assets/image (44).png>)\
+   ![](<../../.gitbook/assets/image (18).png>)\
 
 7. In the token list, search for bCFX and click the **bCFX** token.\
-   ![](<../../.gitbook/assets/image (33).png>)\
+   ![](<../../.gitbook/assets/image (44).png>)\
 
 8. In the amount field, enter the amount of bCFX that you wish you transfer to Conflux eSpace.\
-   ![](<../../.gitbook/assets/image (32).png>)\
+   ![](<../../.gitbook/assets/image (25).png>)\
 
 9. In the To box, switch to the **Conflux eSpace mainnet** network.\
-   ![](<../../.gitbook/assets/image (53).png>)
+   ![](<../../.gitbook/assets/image (3).png>)
 10. Since Multichain only supports bridging bCFX from BNB Chain to Conflux as CFX, leave CFX as the token.\
-    ![](<../../.gitbook/assets/image (51).png>)\
+    ![](<../../.gitbook/assets/image (40).png>)\
 
 11. Confirm the amount of CFX that you'll receive in Conflux.\
-    ![](<../../.gitbook/assets/image (46).png>)\
+    ![](<../../.gitbook/assets/image (14).png>)\
 
 12. Click **Approve bCFX** to start bridging your tokens.\
-    ![](<../../.gitbook/assets/image (4).png>)\
+    ![](<../../.gitbook/assets/image (64).png>)\
 
 13. In the Cross-Chain Router dialog, click **Approve bCFX** to start approving Multichain to transfer your tokens.
 14. In MetaMask, click **Confirm** to grant permission to Multichain to transfer your tokens.\
-    ![](<../../.gitbook/assets/image (52).png>)\
+    ![](<../../.gitbook/assets/image (32).png>)\
 
 15. Once the transfer is approved, click **Swap** to start withdrawing your funds in Conflux eSpace.\
-    ![](<../../.gitbook/assets/image (55).png>)\
+    ![](<../../.gitbook/assets/image (8).png>)\
 
 16. In the Cross-Chain Router dialog, review and confirm the transaction details and click **Confirm**.\
-    ![](<../../.gitbook/assets/image (49).png>)\
+    ![](<../../.gitbook/assets/image (9).png>)\
 
 17. In the MetaMask notification, click **Confirm** to confirm the transaction and bridge your assets.\
     **Note**: This transaction may take a few minutes.\
-    ![](<../../.gitbook/assets/image (19).png>)\
+    ![](<../../.gitbook/assets/image (30).png>)\
 
 18. Once the transaction is completed, click the Tx hash to view the transaction details in [Confluxscan](http://confluxscan.io).\
-    ![](<../../.gitbook/assets/image (7).png>)
+    ![](<../../.gitbook/assets/image (31).png>)
 
 You have now bridged your funds to Conflux eSpace!

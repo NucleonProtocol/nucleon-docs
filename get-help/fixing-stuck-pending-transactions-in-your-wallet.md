@@ -10,7 +10,7 @@ Every once in a blue moon there can be a hiccup in the transaction in your walle
    1. Open the MetaMask plugin on your browser
    2.  Click the multcolored circle in the upper right of the popup. Usually opposite of the fox head icon
 
-       <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption></figcaption></figure>
    3.  Select Settings
 
        <figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
@@ -19,7 +19,7 @@ Every once in a blue moon there can be a hiccup in the transaction in your walle
        <figure><img src="../.gitbook/assets/image (11) (1) (2).png" alt=""><figcaption></figcaption></figure>
    5.  Scroll to Advanced gas controls and make sure the toggle is in the on position
 
-       <figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
    6.  Still in the advanced section, go to customize transaction nonce and make sure this is toggled on too
 
        <figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
@@ -39,7 +39,7 @@ We need to find the stuck transaction and remember the nonce. The nonce is an id
 
 1.  Create a new transaction with a higher gas fee. In the MetaMask popup select **edit** for the estimated gas fee.
 
-    <figure><img src="../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 Remember the gas fee increases the priority of the transaction and will ensure that this nonce is accepted over the old stuck transaction in your wallet.
 
@@ -47,7 +47,7 @@ Remember the gas fee increases the priority of the transaction and will ensure t
 
 &#x20; 2\.  On the confirmation screen ensure the gas fee has really been increased.
 
-<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 3\.  Find the custom nonce entry and put in the nonce we noted earlier.
 
