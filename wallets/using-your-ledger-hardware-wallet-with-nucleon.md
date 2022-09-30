@@ -19,7 +19,7 @@ You can also use your [Ledger](https://ledger.com/) hardware wallet to trade on 
     <figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 3.  **Enable** the blind signing option.
 
-    <figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (9) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 You have just enabled blind signing in your Ledger device!
 
@@ -33,10 +33,10 @@ To use Nucleon with your Ledger wallet:
     *   Select the account from your Ledger device and click **Next**.
 
         <figure><img src="../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
-    * Confirm the connection to MetaMask by clicking **Connect**.<img src="../.gitbook/assets/image (18) (1).png" alt="" data-size="original">
+    * Confirm the connection to MetaMask by clicking **Connect**.<img src="../.gitbook/assets/image (18).png" alt="" data-size="original">
 
 
-3. Go to Nucleon, make a transaction.                                           <img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original">
+3. Go to Nucleon, make a transaction.                                           <img src="../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original">
 4. In the MetaMask notification, review the transaction details and click **Confirm**. <img src="../.gitbook/assets/image (15) (2).png" alt="" data-size="original">
 5. Now, plug-in your Ledger device to your computer.
 6. Unlock your device and open the Ethereum app.

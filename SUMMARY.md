@@ -41,6 +41,7 @@
 * [From Other Networks](transferring-assets-to-conflux-espace/from-other-networks.md)
   * [Bridging from BNB Chain with the eSpace Bridge](transferring-assets-to-conflux-espace/from-other-networks/bridging-from-bnb-chain-with-the-espace-bridge.md)
   * [Bridging from Ethereum and BNB Chain with Multichain](transferring-assets-to-conflux-espace/from-other-networks/bridging-from-ethereum-and-bnb-chain-with-multichain.md)
+  * [Bridging Assets from Ethereum with cBridge](transferring-assets-to-conflux-espace/from-other-networks/bridging-assets-from-ethereum-with-cbridge.md)
 
 ## Wallets
 
