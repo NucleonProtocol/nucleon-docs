@@ -14,5 +14,5 @@ description: >-
 
 To learn how to transfer native eSpace CFX from different exchanges, see:
 
-* KuCoin: Transferring eSpace CFX from KuCoin to MetaMask
-* Gate.io: Transferring eSpace CFX from Gate.io to MetaMask
+* KuCoin: [Transferring eSpace CFX from KuCoin to MetaMask](transferring-espace-cfx-from-kucoin-to-metamask.md).
+* Gate.io: [Transferring eSpace CFX from Gate.io to MetaMask](transferring-espace-cfx-from-gate.io-to-metamask.md).
