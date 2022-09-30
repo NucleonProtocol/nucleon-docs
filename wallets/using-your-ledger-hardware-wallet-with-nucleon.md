@@ -32,7 +32,7 @@ To use Nucleon with your Ledger wallet:
 
     *   Select the account from your Ledger device and click **Next**.
 
-        <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
     * Confirm the connection to MetaMask by clicking **Connect**.<img src="../.gitbook/assets/image (18).png" alt="" data-size="original">
 
 

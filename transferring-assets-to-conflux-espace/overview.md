@@ -10,7 +10,7 @@ In short, to transfer assets to your Conflux eSpace account you can:&#x20;
 
 The following image shows an overview of these options:&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Bridging options to Conflux eSpace, from Conflux Core, exchanges, and other networks.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>Bridging options to Conflux eSpace, from Conflux Core, exchanges, and other networks.</p></figcaption></figure>
 
 Bridging options to Conflux eSpace, from Conflux Core, exchanges, and other networks.&#x20;
 

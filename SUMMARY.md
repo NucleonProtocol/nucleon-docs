@@ -33,7 +33,8 @@
 ## Transferring Assets to Conflux eSpace
 
 * [Overview](transferring-assets-to-conflux-espace/overview.md)
-* [From Exchanges](transferring-assets-to-conflux-espace/from-exchanges.md)
+* [From Exchanges](transferring-assets-to-conflux-espace/from-exchanges/README.md)
+  * [Transferring eSpace CFX from KuCoin to MetaMask](transferring-assets-to-conflux-espace/from-exchanges/transferring-espace-cfx-from-kucoin-to-metamask.md)
 * [From Conflux Core](transferring-assets-to-conflux-espace/from-conflux-core.md)
 * [From Other Networks](transferring-assets-to-conflux-espace/from-other-networks.md)
 

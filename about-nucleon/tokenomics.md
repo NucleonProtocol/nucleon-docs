@@ -18,7 +18,7 @@ $$
 ct = co +
 $$
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 When users withdraw xCFX to CFX, the xCFX to CFX withdraw value is determined the moment the withdrawal operation is confirmed as determined by Conflux POS mechanism - currently: 14 days.&#x20;
 
@@ -32,7 +32,7 @@ At launch, Nucleon’s service fee will be set at 10% of the interest earned via
 
 Total Supply: 300,000 NUT released over 4 years. &#x20;
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
 
 The release schedule time chart is as follows:
 
