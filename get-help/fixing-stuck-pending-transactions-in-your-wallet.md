@@ -32,7 +32,7 @@ We need to find the stuck transaction and remember the nonce. The nonce is an id
     <figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 2.  Look for the nonce and note the number
 
-    <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 3. **Overwrite the Stuck Transaction**
 
 **Essentially we will be making a new transaction to replace the stuck transaction and we will put in the same nonce as the old transaction**
@@ -43,7 +43,7 @@ We need to find the stuck transaction and remember the nonce. The nonce is an id
 
 Remember the gas fee increases the priority of the transaction and will ensure that this nonce is accepted over the old stuck transaction in your wallet.
 
-<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 2\.  On the confirmation screen ensure the gas fee has really been increased.
 

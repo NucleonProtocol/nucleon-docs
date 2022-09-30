@@ -38,7 +38,8 @@
   * [Transferring eSpace CFX from Gate.io to MetaMask](transferring-assets-to-conflux-espace/from-exchanges/transferring-espace-cfx-from-gate.io-to-metamask.md)
 * [From Conflux Core](transferring-assets-to-conflux-espace/from-conflux-core/README.md)
   * [Bridging Assets From Conflux Core with Fluent](transferring-assets-to-conflux-espace/from-conflux-core/bridging-assets-from-conflux-core-with-fluent.md)
-* [From Other Networks](transferring-assets-to-conflux-espace/from-other-networks.md)
+* [From Other Networks](transferring-assets-to-conflux-espace/from-other-networks/README.md)
+  * [Bridging from BNB Chain with the eSpace Bridge](transferring-assets-to-conflux-espace/from-other-networks/bridging-from-bnb-chain-with-the-espace-bridge.md)
 
 ## Wallets
 

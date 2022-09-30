@@ -36,4 +36,4 @@ Total Supply: 300,000 NUT released over 4 years. &#x20;
 
 The release schedule time chart is as follows:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
