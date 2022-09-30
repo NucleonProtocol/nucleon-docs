@@ -37,7 +37,7 @@ To use Nucleon with your Ledger wallet:
 
 
 3. Go to Nucleon, make a transaction.                                           <img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original">
-4. In the MetaMask notification, review the transaction details and click **Confirm**. <img src="../.gitbook/assets/image (15).png" alt="" data-size="original">
+4. In the MetaMask notification, review the transaction details and click **Confirm**. <img src="../.gitbook/assets/image (15) (2).png" alt="" data-size="original">
 5. Now, plug-in your Ledger device to your computer.
 6. Unlock your device and open the Ethereum app.
 7.  Review the transaction details and confirm the transaction by pressing the two buttons in Accept and Send.
