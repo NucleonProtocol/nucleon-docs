@@ -8,6 +8,7 @@
 * [Liquid Staking](about-nucleon/liquid-staking.md)
 * [Tokenomics](about-nucleon/tokenomics.md)
 * [Security](about-nucleon/security.md)
+* [Governance](about-nucleon/governance.md)
 * [Fees](about-nucleon/fees.md)
 * [Risks](about-nucleon/risks.md)
 
