@@ -8,11 +8,11 @@ description: Brand Marketing and Guidelines
 
 Please be sure to read these guidelines first before using any brand assets.&#x20;
 
-Although Nucleon distributes some of its technology under open-source licenses, the Nucleon, XCFX and NUT brands are not distributed under the same licenses.&#x20;
+Although Nucleon distributes some of its technology under open-source licenses, the Nucleon, xCFX and NUT brands are not distributed under the same licenses.&#x20;
 
 The following Nucleon "Brand Assets" are copyrighted material, and you may only use them in accordance with the policy detailed below:&#x20;
 
-* The Nucleon, XCFX and NUT logos, word mark, icon&#x20;
+* The Nucleon, xCFX and NUT logos, word mark, icon&#x20;
 * The Nucleon name
 * Other visual assets produced by Nucleon
 
