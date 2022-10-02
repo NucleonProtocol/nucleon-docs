@@ -10,5 +10,15 @@ When staking with Nucleon, users receive xCFX tokens on a 1:1 basis representing
 
 When using Nucleon, staking rewards will be compound  in real-time, allowing for participation in the securing of Conflux without the associated risks and downside potential.
 
+### What Makes NUCLEON Unique?
 
+NUCLEON is the very first liquid staking solution to launch on Conflux eSpace, an EVM-compatible smart contract execution environment build on top of Conflux that allows developers to deploy and execute Ethereum-native dApps and smart contracts within the Conflux ecosystem. NUCLEON aims to build the most robust liquid staking ecosystem on Conflux, with plans to give users more opportunities to participate Conflux POS staking without decrease users token liquidity.
+
+### How Is the NUCLEON Network Secured? <a href="#how-is-the-nucleon-network-secured" id="how-is-the-nucleon-network-secured"></a>
+
+NUCLEON can be supported by the wallets on Conflux eSpace. These include MetaMask, WalletConnect, TokenPocket，Ledger and Fluent Wallet.
+
+### Who Are the Founders of NUCLEON? <a href="#who-are-the-founders-of-nucleon" id="who-are-the-founders-of-nucleon"></a>
+
+Nucleon is a liquid staking solution for Conflux PoS backed by industry-leading staking providers that was launched by a team X-Dao(XD) which is a international Decentralized Autonomous Organization.
 
