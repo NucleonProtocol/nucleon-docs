@@ -24,4 +24,4 @@ Nucleon is a liquid staking solution for Conflux PoS backed by industry-leading 
 
 XD is  a group of Web3 pioneers including top engineers and scientists to develop the most practical and efficient decentralized applications. For the future of mankind, we build infrastructure based on the fastest blockchain at present -- the conflux network. The first battle is Nucleon, the first liquid staking solution to solve the problems associated with Conflux PoS staking - illiquidity, immovability and accessibility.
 
-In the future, XD will build more excellent applications to help the POW network move towards a brighter decentralized world.
+In the future, XD will build more excellent applications to help the Conflux network move towards a brighter decentralized world.
